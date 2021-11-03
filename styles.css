@@ -1,13 +1,13 @@
 /* Write your CSS here! */
 
 body {
-   
+    margin-top: 100px;
     margin: 8px; 
     display: block;
   background-color: lightblue;
 }
 #mainHeading{
-    background-color: red;
+    font-style: red;
     font-size: x-large;
 }
 
@@ -17,10 +17,5 @@ body {
     }
       .funparagraph {
         font-style: green;
-        
       }
     
-      body{
-          padding-top: 50px;
-       margin-top: 100px;
-      }
