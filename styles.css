@@ -20,8 +20,13 @@ body {
       background-color: rgb(59, 178, 207);
     }
       
-       .funParagraph{ background-color: green; } 
-
+       .funParagraph{  
+         color:green; 
+        } 
+       
+    #testP{
+      color: rgb(5, 95, 40);
+    }
    .p4{
      color: red;
     font-style: italic;
