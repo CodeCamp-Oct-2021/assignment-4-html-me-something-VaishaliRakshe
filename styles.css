@@ -6,8 +6,8 @@ body {
     display: block;
   background-color: lightblue;
 }
-#mainHeading{
-    font-style: red;
+#mainHeading  {
+    color: red;
     font-size: x-large;
 }
 
@@ -16,6 +16,6 @@ body {
       font-size: medium;
     }
       .funparagraph {
-        font-style: green;
+        color: green;
       }
     
