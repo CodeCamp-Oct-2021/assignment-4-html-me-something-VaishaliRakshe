@@ -1,5 +1,7 @@
 /* Write your CSS here! */
+
 body {
+   
     margin: 8px; 
     display: block;
   background-color: lightblue;
@@ -15,5 +17,7 @@ body {
     }
       .funparagraph {
         background-color: green;
+        padding-top: 50px;
+       margin-top: 100px;
       }
     
