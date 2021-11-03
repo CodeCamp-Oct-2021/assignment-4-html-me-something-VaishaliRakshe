@@ -22,4 +22,8 @@ body {
       
        .funParagraph{ color: green; } 
 
-   
+   .p4{
+     color: red;
+    font-style: italic;
+
+   }
